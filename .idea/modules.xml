@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_prg.iml" filepath="$PROJECT_DIR$/Android_prg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid7.iml" filepath="$PROJECT_DIR$/StartAndroid7.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" filepath="$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" />
     </modules>
   </component>
 </project>
