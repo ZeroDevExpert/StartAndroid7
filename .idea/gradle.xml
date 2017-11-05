@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/p0571_gridview" />
             <option value="$PROJECT_DIR$/p0572_gridview2" />
             <option value="$PROJECT_DIR$/p0581_timepickerdialog" />
+            <option value="$PROJECT_DIR$/p0591_datepickerdialog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
