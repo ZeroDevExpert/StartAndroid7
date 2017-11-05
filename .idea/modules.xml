@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" filepath="$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" filepath="$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" filepath="$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" />
     </modules>
   </component>
 </project>
