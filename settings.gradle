@@ -1,1 +1,1 @@
-include ':app', ':p0551_headerfooter', ':p0561_spinner', ':p0571_gridview'
+include ':app', ':p0551_headerfooter', ':p0561_spinner', ':p0571_gridview', ':p0572_gridview2'

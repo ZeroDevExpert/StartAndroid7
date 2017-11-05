@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/p0551_headerfooter" />
             <option value="$PROJECT_DIR$/p0561_spinner" />
             <option value="$PROJECT_DIR$/p0571_gridview" />
+            <option value="$PROJECT_DIR$/p0572_gridview2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
