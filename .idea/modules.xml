@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" filepath="$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" filepath="$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" filepath="$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" />
     </modules>
   </component>
 </project>
