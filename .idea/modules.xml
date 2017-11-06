@@ -3,16 +3,28 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartAndroid7.iml" filepath="$PROJECT_DIR$/StartAndroid7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAndroid7.iml" filepath="$PROJECT_DIR$/StartAndroid7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" filepath="$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" filepath="$PROJECT_DIR$/p0551_headerfooter/p0551_headerfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" filepath="$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" filepath="$PROJECT_DIR$/p0561_spinner/p0561_spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" filepath="$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" filepath="$PROJECT_DIR$/p0571_gridview/p0571_gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" filepath="$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" filepath="$PROJECT_DIR$/p0572_gridview2/p0572_gridview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" filepath="$PROJECT_DIR$/p0581_timepickerdialog/p0581_timepickerdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" filepath="$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" filepath="$PROJECT_DIR$/p0591_datepickerdialog/p0591_datepickerdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" filepath="$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" filepath="$PROJECT_DIR$/p0601_alertdialogsimple/p0601_alertdialogsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0611_alertdialogprepare/p0611_alertdialogprepare.iml" filepath="$PROJECT_DIR$/p0611_alertdialogprepare/p0611_alertdialogprepare.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0611_alertdialogprepare/p0611_alertdialogprepare.iml" filepath="$PROJECT_DIR$/p0611_alertdialogprepare/p0611_alertdialogprepare.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" filepath="$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" filepath="$PROJECT_DIR$/p0621_alertdialogitems/p0621_alertdialogitems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" filepath="$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" filepath="$PROJECT_DIR$/p0631_alertdialogitemssingle/p0631_alertdialogitemssingle.iml" />
     </modules>
   </component>
